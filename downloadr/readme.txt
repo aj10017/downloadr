@@ -1,0 +1,1 @@
+to set this addon up, modify downmgr_config.lua in lua/autorun/server/. further instructions can be found there
